@@ -1,0 +1,7 @@
+{
+  "name": "com.liqiangeastsun.gameinterface",
+  "version": "0.1.0",
+  "displayName": "GameInterface",
+  "description": "游戏架构底层接口",
+  "unity": "6000.0"
+}
